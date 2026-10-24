@@ -1,0 +1,12 @@
+# Generated executables and build files
+*.exe
+*.o
+*.out
+*.lst
+
+# Local editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# SIC/XE .obj files are text fixtures and must remain tracked.
